@@ -1,0 +1,12 @@
+[
+    {
+        "email":  "viral@gmail.com",
+        "password": "Viral123",
+        "productName": "adidas original"
+    },
+    {
+        "email": "fakeaccount@getnada.com",
+        "password": "superfake1B",
+        "productName": "adidas original"
+    }
+]
